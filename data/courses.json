@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Your Web Development Journey begins here",
+        "author": {
+            "name": "Html 5",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        },
+        "thumbnail_url": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+        "image_url": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+        "details": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Want to do add some color.... Lets go ",
+        "author": {
+            "name": "css3",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8N_O4E2ZfyTDbUUWzqsDDUIvclBMpxZQZg&usqp=CAU"
+        },
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoB-IRPRX9ZeilO25-EnYDf8Rjl0z27uefg&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoB-IRPRX9ZeilO25-EnYDf8Rjl0z27uefg&usqp=CAU",
+        "details": "Cascading Style Sheets Level 3 (CSS3) is the iteration of the CSS standard used in the styling and formatting of Web pages. CSS3 incorporates the CSS2 standard with some changes and improvements."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "Bootstrap",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtEI-9yRUFvJUI67yymfwGltOBSf2skHW8w&usqp=CAU"
+        },
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup2njL2ZpN9jhxlZk_Q5ZPRm6hd5hSsxwvQ&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup2njL2ZpN9jhxlZk_Q5ZPRm6hd5hSsxwvQ&usqp=CAU",
+        "details": "Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.Bootstrap 5 is the newest version of Bootstrap.Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 127,
+        "title": "Web's real Functonalities begins here",
+        "author": {
+            "name": "Javascript",
+            "published_date": "2022-08-25 18:53:49",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPG698rjGEXbC2-PD9On3hLhto3iIGtuCW6Q&usqp=CAU"
+        },
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbqaiEtKG45EFJEgZXd1ai8ZB1FnPuVCWXQ&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbqaiEtKG45EFJEgZXd1ai8ZB1FnPuVCWXQ&usqp=CAU",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.”"
+    },
+    {
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "07",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 300,
+        "title": "React helps user's to create components based website",
+        "author": {
+            "name": "React",
+            "published_date": "2022-08-24 22:30:00",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuowUjaOWu7gD__sbISQai7nzr6j8gL4x2Q&usqp=CAU"
+        },
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnseKFid_MZaaEBMLLGN7TjXBvCkEj-7KM_g&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnseKFid_MZaaEBMLLGN7TjXBvCkEj-7KM_g&usqp=CAU",
+        "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality."
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 100,
+        "title": "Working with data doesn't need to be hard",
+        "author": {
+            "name": "Mongo DB",
+            "published_date": "2022-08-26 00:37:24",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqvWatmAbtEe5MC_5finpDqqajOvb5fnyAg&usqp=CAU"
+        },
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWh_qaH98Lx2Qdy0hXfk8HusBO0zlJRNldQ&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWh_qaH98Lx2Qdy0hXfk8HusBO0zlJRNldQ&usqp=CAU",
+        "details": "MongoDB’s document model is simple for developers to learn and use, while still providing all the capabilities needed to meet the most complex requirements at any scale. We provide drivers for 10+ languages, and the community has built dozens more."
+    }
+]
